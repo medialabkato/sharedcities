@@ -2,7 +2,7 @@ Local Business or Place
 -----------------------
 
 | ID  | NAME  |
---------------|
+|--------------|
 |	1757592557789532	|	Advertising/Marketing Service
 |	1574325646194878	|	Agriculture
 |	128966563840349	|	Airport
@@ -61,7 +61,7 @@ Company, Organization or Institution
 ------------------------------------
 
 | ID  | NAME  |
---------------|
+|--------------|
 |	1046556002104857	|	Aerospace Company
 |	270228986662208	|	Agriculture Company
 |	129942010754801	|	Automotive Company
@@ -109,7 +109,7 @@ Brand or Product
 ----------------
 
 | ID  | NAME  |
---------------|
+|--------------|
 |	2301	|	App Page
 |	150060378385891	|	Appliances
 |	2232	|	Baby Goods/Kids Goods
@@ -185,7 +185,7 @@ Entertainment
 -------------
 
 | ID  | NAME  |
---------------|
+|--------------|
 |	1200	|	Album
 |	238893349812980	|	Amateur Sport Team
 |	1300	|	Book
